@@ -1,0 +1,16 @@
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\测试模块功能程序.exe.config
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\测试模块功能程序.exe
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\测试模块功能程序.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Release\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\测试模块功能程序.Form1.resources
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\测试模块功能程序.Properties.Resources.resources
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\测试模块功能程序.exe
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\测试模块功能程序.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\GenerateResource.read.1.tlog
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+D:\Jp\开发\testDend\IClientAttribute\bin\Debug\IClientAttribute.dll
+D:\Jp\开发\testDend\IClientAttribute\bin\Debug\IClientAttribute.pdb
+D:\Jp\开发\testDend\IClientAttribute\obj\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\testDend\IClientAttribute\obj\Debug\IClientAttribute.dll
+D:\Jp\开发\testDend\IClientAttribute\obj\Debug\IClientAttribute.pdb
+D:\Jp\开发\testSend\IClientAttribute\bin\Debug\IClientAttribute.dll
+D:\Jp\开发\testSend\IClientAttribute\bin\Debug\IClientAttribute.pdb
+D:\Jp\开发\testSend\IClientAttribute\obj\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\testSend\IClientAttribute\obj\Debug\IClientAttribute.dll
+D:\Jp\开发\testSend\IClientAttribute\obj\Debug\IClientAttribute.pdb

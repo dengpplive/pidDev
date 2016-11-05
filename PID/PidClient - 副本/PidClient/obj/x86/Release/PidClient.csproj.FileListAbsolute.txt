@@ -1,0 +1,14 @@
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\bin\Release\PidClient.exe.config
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\bin\Release\PidClient.exe
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\bin\Release\PidClient.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmAbout.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmBlack.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmChangePwd.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmLock.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmLogin.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmMain.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.FrmYuDing.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.Properties.Resources.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.csproj.GenerateResource.Cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.exe
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\PidClient\obj\x86\Release\PidClient.pdb

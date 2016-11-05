@@ -1,0 +1,10 @@
+D:\Jp\开发\PID\Pid.Model\bin\Release\Pid.Model.dll
+D:\Jp\开发\PID\Pid.Model\bin\Release\Pid.Model.pdb
+D:\Jp\开发\PID\Pid.Model\obj\Release\ResolveAssemblyReference.cache
+D:\Jp\开发\PID\Pid.Model\obj\Release\Pid.Model.dll
+D:\Jp\开发\PID\Pid.Model\obj\Release\Pid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\Pid.Model\bin\Release\Pid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\Pid.Model\bin\Release\Pid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\Pid.Model\obj\Release\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\Pid.Model\obj\Release\Pid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\Pid.Model\obj\Release\Pid.Model.pdb

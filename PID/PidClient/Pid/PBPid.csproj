@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6178C3C9-E3CA-44CE-B1FB-0423400848DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PBPid</RootNamespace>
+    <AssemblyName>PBPid</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAddModifyConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddModifyConfig.Designer.cs">
+      <DependentUpon>FormAddModifyConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddModifyUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddModifyUser.Designer.cs">
+      <DependentUpon>FormAddModifyUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLog.Designer.cs">
+      <DependentUpon>FormLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="myControl\MyDataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="myControl\MyListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SocketServer\SocketSync.cs" />
+    <EmbeddedResource Include="FormAddModifyConfig.resx">
+      <DependentUpon>FormAddModifyConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddModifyUser.resx">
+      <DependentUpon>FormAddModifyUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLog.resx">
+      <DependentUpon>FormLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\new\ClientManage\ClientManage.csproj">
+      <Project>{413C5DEE-BC5F-4F80-8A87-F593ED76658A}</Project>
+      <Name>ClientManage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\new\EtermManage\EtermManage.csproj">
+      <Project>{0B2615EB-4C90-463A-8957-60BAB7865B7C}</Project>
+      <Name>EtermManage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\new\PublicClass\PublicClass.csproj">
+      <Project>{6868B530-402D-475F-A04C-4A3AC33C0126}</Project>
+      <Name>PublicClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\new\ServerManage\ServerManage.csproj">
+      <Project>{9B690424-3CA5-4FC4-89D3-DD9690663567}</Project>
+      <Name>ServerManage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CacheManage\PBPid.CacheManage.csproj">
+      <Project>{C35896B7-2BC0-439B-BC62-C10EF3724A72}</Project>
+      <Name>PBPid.CacheManage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Global\PBPid.Manage.csproj">
+      <Project>{0B6C9AF7-07CE-4464-B6CC-D427C69AE065}</Project>
+      <Name>PBPid.Manage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pid.ConfigManage\PBPid.ConfigManage.csproj">
+      <Project>{08372438-1FC4-4399-87FB-79CFD714693F}</Project>
+      <Name>PBPid.ConfigManage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pid.Model\PBPid.DBModel.csproj">
+      <Project>{6B368235-19ED-4F10-B7C3-89BDE332EB8A}</Project>
+      <Name>PBPid.DBModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Eterm3Lib">
+      <Guid>{3B06E499-1473-47ED-85A5-2CE4EE45A6DF}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BaseImages\02.bmp" />
+    <Content Include="BaseImages\03.bmp" />
+    <Content Include="BaseImages\04.bmp" />
+    <Content Include="BaseImages\05.bmp" />
+    <Content Include="BaseImages\06.bmp" />
+    <Content Include="BaseImages\07.bmp" />
+    <Content Include="BaseImages\08.bmp" />
+    <Content Include="BaseImages\09.bmp" />
+    <Content Include="BaseImages\10.bmp" />
+    <Content Include="BaseImages\11.bmp" />
+    <Content Include="BaseImages\13.bmp" />
+    <Content Include="BaseImages\14.bmp" />
+    <Content Include="BaseImages\15.bmp" />
+    <Content Include="BaseImages\16.bmp" />
+    <Content Include="BaseImages\17.bmp" />
+    <Content Include="BaseImages\18.bmp" />
+    <Content Include="BaseImages\19.bmp" />
+    <Content Include="BaseImages\20.bmp" />
+    <Content Include="BaseImages\21.bmp" />
+    <Content Include="BaseImages\22.bmp" />
+    <Content Include="BaseImages\23.bmp" />
+    <Content Include="BaseImages\25.bmp" />
+    <Content Include="BaseImages\26.bmp" />
+    <Content Include="BaseImages\27.bmp" />
+    <Content Include="BaseImages\29.bmp" />
+    <Content Include="BaseImages\30.bmp" />
+    <Content Include="BaseImages\32.bmp" />
+    <Content Include="BaseImages\34.bmp" />
+    <Content Include="BaseImages\36.bmp" />
+    <Content Include="BaseImages\37.bmp" />
+    <Content Include="BaseImages\38.bmp" />
+    <Content Include="BaseImages\39.bmp" />
+    <Content Include="BaseImages\40.bmp" />
+    <Content Include="BaseImages\41.bmp" />
+    <Content Include="BaseImages\42.bmp" />
+    <Content Include="BaseImages\43.bmp" />
+    <Content Include="BaseImages\46.bmp" />
+    <Content Include="BaseImages\48.bmp" />
+    <Content Include="BaseImages\49.bmp" />
+    <Content Include="BaseImages\50.bmp" />
+    <Content Include="BaseImages\51.bmp" />
+    <Content Include="BaseImages\52.bmp" />
+    <Content Include="BaseImages\53.bmp" />
+    <Content Include="BaseImages\54.bmp" />
+    <Content Include="BaseImages\55.bmp" />
+    <Content Include="BaseImages\56.bmp" />
+    <Content Include="BaseImages\57.bmp" />
+    <Content Include="BaseImages\58.bmp" />
+    <Content Include="BaseImages\59.bmp" />
+    <Content Include="BaseImages\60.bmp" />
+    <Content Include="BaseImages\61.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

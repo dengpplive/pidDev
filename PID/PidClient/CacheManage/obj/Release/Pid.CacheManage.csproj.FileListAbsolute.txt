@@ -1,0 +1,5 @@
+G:\work\pid开发\开发\PID\PidClient\CacheManage\bin\Release\Pid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\CacheManage\bin\Release\Pid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient\CacheManage\obj\Release\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\CacheManage\obj\Release\Pid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\CacheManage\obj\Release\Pid.CacheManage.pdb

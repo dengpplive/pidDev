@@ -1,0 +1,13 @@
+D:\Jp\开发\PID\PidClient\Global\obj\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.Global.dll
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.Global.pdb
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.ConfigManage.dll
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\IDBMethod.dll
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.Model.dll
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.ConfigManage.pdb
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\IDBMethod.pdb
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.Model.pdb
+D:\Jp\开发\PID\PidClient\Global\obj\Debug\Pid.Global.dll
+D:\Jp\开发\PID\PidClient\Global\obj\Debug\Pid.Global.pdb
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.CacheManage.dll
+D:\Jp\开发\PID\PidClient\Global\bin\Debug\Pid.CacheManage.pdb

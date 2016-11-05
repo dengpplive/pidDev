@@ -1,0 +1,11 @@
+D:\Jp\开发\testSend\testSend\bin\Release\testDend.exe
+D:\Jp\开发\testSend\testSend\bin\Release\testDend.pdb
+D:\Jp\开发\testSend\testSend\bin\Release\IClientAttribute.dll
+D:\Jp\开发\testSend\testSend\bin\Release\IClientAttribute.pdb
+D:\Jp\开发\testSend\testSend\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Jp\开发\testSend\testSend\obj\x86\Release\testSend.Form1.resources
+D:\Jp\开发\testSend\testSend\obj\x86\Release\testSend.Properties.Resources.resources
+D:\Jp\开发\testSend\testSend\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Jp\开发\testSend\testSend\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Jp\开发\testSend\testSend\obj\x86\Release\testDend.exe
+D:\Jp\开发\testSend\testSend\obj\x86\Release\testDend.pdb

@@ -1,0 +1,15 @@
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\obj\Release\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.Manage.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\IDBMethod.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.Manage.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.ConfigManage.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Release\IDBMethod.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\obj\Release\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\obj\Release\UpProcessing.pdb

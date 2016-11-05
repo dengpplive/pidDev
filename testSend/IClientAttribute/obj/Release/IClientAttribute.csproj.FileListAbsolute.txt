@@ -1,0 +1,5 @@
+D:\Jp\开发\testSend\IClientAttribute\bin\Release\IClientAttribute.dll
+D:\Jp\开发\testSend\IClientAttribute\bin\Release\IClientAttribute.pdb
+D:\Jp\开发\testSend\IClientAttribute\obj\Release\ResolveAssemblyReference.cache
+D:\Jp\开发\testSend\IClientAttribute\obj\Release\IClientAttribute.dll
+D:\Jp\开发\testSend\IClientAttribute\obj\Release\IClientAttribute.pdb

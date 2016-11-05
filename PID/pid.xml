@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.1.dtd">
+<dotfuscator version="2.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <input>
+    <asmlist>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <file dir="G:\work\pid开发\开发\PID\PidClient - 副本\Pid\bin\Debug" name="PBPid.exe" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="G:\work\pid开发\开发\PID" />
+  </output>
+  <renaming>
+    <excludelist>
+      <assembly>
+        <file dir="G:\work\pid开发\开发\PID\PidClient - 副本\Pid\bin\Debug" name="PBPid.exe" />
+      </assembly>
+      <namespace name="12345" regex="true" />
+    </excludelist>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+      </mapoutput>
+    </mapping>
+  </renaming>
+  <controlflow level="high">
+    <excludelist>
+      <assembly>
+        <file dir="G:\work\pid开发\开发\PID\PidClient - 副本\Pid\bin\Debug" name="PBPid.exe" />
+      </assembly>
+      <namespace name="Namespace1243" regex="true" />
+    </excludelist>
+  </controlflow>
+  <stringencrypt>
+    <option>disable</option>
+    <includelist>
+      <assembly>
+        <file dir="G:\work\pid开发\开发\PID\PidClient - 副本\Pid\bin\Debug" name="PBPid.exe" />
+      </assembly>
+      <namespace name="Namespace44444" regex="true" />
+    </includelist>
+  </stringencrypt>
+  <codeprotection />
+  <premark>
+    <option>disable</option>
+    <option>usepassphrase</option>
+    <assemblylist>
+      <assembly>
+        <file dir="G:\work\pid开发\开发\PID\PidClient - 副本\Pid\bin\Debug" name="PBPid.exe" />
+      </assembly>
+    </assemblylist>
+    <passphrase>wylzlllxidsijsdsd</passphrase>
+  </premark>
+  <signing>
+    <resign>
+      <option>dontuseattributes</option>
+      <key>
+        <container name="mypbkevin1234567890" />
+      </key>
+    </resign>
+    <delaysign>
+      <key>
+        <container name="mypbkevin1234567890" />
+      </key>
+    </delaysign>
+  </signing>
+  <licensing>
+    <permutation name="" />
+    <product versionmask="revision" />
+    <nolicenseaction name="showactivation" />
+    <unlockingfeature name="" />
+  </licensing>
+  <extattributes />
+</dotfuscator>

@@ -1,0 +1,15 @@
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\UpProcessing.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\UpProcessing.pdb
+D:\Jp\开发\PID\PidClient\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\PID\PidClient\UpProcessing\obj\Debug\UpProcessing.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\obj\Debug\UpProcessing.pdb
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.ConfigManage.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\IDBMethod.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.Model.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.ConfigManage.pdb
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\IDBMethod.pdb
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.Model.pdb
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.CacheManage.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.CacheManage.pdb
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.Global.dll
+D:\Jp\开发\PID\PidClient\UpProcessing\bin\Debug\Pid.Global.pdb

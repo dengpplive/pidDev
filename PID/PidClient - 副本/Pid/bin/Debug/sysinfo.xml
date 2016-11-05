@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<EtermClient>
+  <LoginInfo savepwd="1" autologin="0" staffid="kevin" pwd="c800554dc7e30a6e8feb02d889b734ca" />
+  <ServerInfo1 servername="认证服务器一" serverip="127.0.0.1" />
+  <ServerInfo2 servername="认证服务器二" serverip="210.14.138.29" />
+  <ServerInfo3 servername="认证服务器三" serverip="210.14.138.30" />
+  <ServerInfo4 servername="认证服务器四" serverip="210.14.138.26" />
+  <ServerInfo4 servername="认证服务器五" serverip="210.14.138.25" />
+  <ServerInfo4 servername="认证服务器六" serverip="116.254.206.23" />
+</EtermClient>

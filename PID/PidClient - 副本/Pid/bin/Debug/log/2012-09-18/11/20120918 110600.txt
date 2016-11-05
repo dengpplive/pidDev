@@ -1,2 +1,0 @@
-Socket->未在接口/类型“IDBMethodSpace.IDBMethod, IDBMethod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null”找到方法“Get_Base_PinYin”。Socket->通道已关闭！2012/9/18 星期二 11:05:52
-

@@ -1,0 +1,8 @@
+D:\Jp\开发\PidServer\RemoteDataSerivice\obj\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\PidServer\RemoteDataSerivice\bin\Debug\RemoteDataSerivice.dll
+D:\Jp\开发\PidServer\RemoteDataSerivice\bin\Debug\RemoteDataSerivice.pdb
+D:\Jp\开发\PidServer\RemoteDataSerivice\bin\Debug\IDBMethod.dll
+D:\Jp\开发\PidServer\RemoteDataSerivice\bin\Debug\Pid.Model.dll
+D:\Jp\开发\PidServer\RemoteDataSerivice\bin\Debug\IDBMethod.pdb
+D:\Jp\开发\PidServer\RemoteDataSerivice\obj\Debug\RemoteDataSerivice.dll
+D:\Jp\开发\PidServer\RemoteDataSerivice\obj\Debug\RemoteDataSerivice.pdb

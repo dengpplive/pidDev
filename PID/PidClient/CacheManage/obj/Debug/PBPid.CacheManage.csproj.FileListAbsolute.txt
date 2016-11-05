@@ -1,0 +1,10 @@
+D:\work-2012082901\pid开发\开发\PID\PidClient\CacheManage\bin\Debug\PBPid.CacheManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\CacheManage\bin\Debug\PBPid.CacheManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\CacheManage\obj\Debug\ResolveAssemblyReference.cache
+D:\work-2012082901\pid开发\开发\PID\PidClient\CacheManage\obj\Debug\PBPid.CacheManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\CacheManage\obj\Debug\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient\CacheManage\bin\Debug\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\CacheManage\bin\Debug\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient\CacheManage\obj\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\CacheManage\obj\Debug\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\CacheManage\obj\Debug\PBPid.CacheManage.pdb

@@ -1,0 +1,5 @@
+G:\work\pid开发\开发\PID\PidClient\Pid\bin\Release\Pid.exe.config
+G:\work\pid开发\开发\PID\PidClient\Pid\obj\x86\Release\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\Pid\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+G:\work\pid开发\开发\PID\PidClient\Pid\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+G:\work\pid开发\开发\PID\PidClient\Pid\bin\Release\PBPid.exe.config

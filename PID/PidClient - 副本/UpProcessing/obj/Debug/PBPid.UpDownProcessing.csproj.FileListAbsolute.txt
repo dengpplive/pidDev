@@ -1,0 +1,150 @@
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Manage.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\IDBMethod.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Manage.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\IDBMethod.pdb
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\obj\Debug\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient\UpProcessing\obj\Debug\UpProcessing.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\UpProcessing.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\UpProcessing.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Manage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Model.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\IDBMethod.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Manage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\PBPid.Model.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\bin\Debug\IDBMethod.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\obj\Debug\UpProcessing.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\UpProcessing\obj\Debug\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\ResolveAssemblyReference.cache
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\PBPid.UpDownProcessing.csprojResolveAssemblyReference.cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\UpProcessing.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.CacheManage.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Manage.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.ConfigManage.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\PBPid.Model.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\bin\Debug\IDBMethod.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\PBPid.UpDownProcessing.csprojResolveAssemblyReference.cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\UpProcessing\obj\Debug\UpProcessing.pdb

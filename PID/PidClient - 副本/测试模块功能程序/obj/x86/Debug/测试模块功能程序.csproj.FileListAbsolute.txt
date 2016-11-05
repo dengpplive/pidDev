@@ -1,0 +1,270 @@
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\Pid.ConfigManage.dll
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\Pid.ConfigManage.pdb
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\Jp\开发\PID\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\Pid.Model.dll
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\Pid.Model.pdb
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\IDBMethod.dll
+D:\Jp\开发\PID\测试模块功能程序\bin\Debug\IDBMethod.pdb
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.dll
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.dll
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.pdb
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\Jp\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.pdb
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\Jp\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.dll
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.dll
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.pdb
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.pdb
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HP\Desktop\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.dll
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.dll
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.pdb
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.pdb
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work-2012080601\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.dll
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.dll
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.pdb
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.pdb
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work-2012082201\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.dll
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.dll
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.pdb
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.pdb
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work-2012082301\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.dll
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.dll
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.Model.pdb
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\Pid.CacheManage.pdb
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work-2012082401\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.Model.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work-2012082901\pid开发\开发\PID\PidClient\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+G:\work\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.csprojResolveAssemblyReference.cache
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.csproj.GenerateResource.Cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe.config
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.exe
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\测试模块功能程序.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.Model.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\UpProcessing.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\bin\Debug\PBPid.CacheManage.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.csprojResolveAssemblyReference.cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Form1.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.Properties.Resources.resources
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.csproj.GenerateResource.Cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.exe
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\测试模块功能程序\obj\x86\Debug\测试模块功能程序.pdb
