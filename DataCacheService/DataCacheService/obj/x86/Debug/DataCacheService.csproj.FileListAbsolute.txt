@@ -1,0 +1,12 @@
+D:\Jp\开发\DataCacheService\DataCacheService\bin\Debug\DataCacheService.exe.config
+D:\Jp\开发\DataCacheService\DataCacheService\bin\Debug\DataCacheService.exe
+D:\Jp\开发\DataCacheService\DataCacheService\bin\Debug\DataCacheService.pdb
+D:\Jp\开发\DataCacheService\DataCacheService\bin\Debug\IRemoteMethod.dll
+D:\Jp\开发\DataCacheService\DataCacheService\bin\Debug\IRemoteMethod.pdb
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\DataCacheService.FormMain.resources
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\DataCacheService.Properties.Resources.resources
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\DataCacheService.exe
+D:\Jp\开发\DataCacheService\DataCacheService\obj\x86\Debug\DataCacheService.pdb

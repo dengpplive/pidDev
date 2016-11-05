@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312"?>
+<EtermClient>
+  <LoginInfo savepwd="1" autologin="0" staffid="sia322" pwd="bea01fe6307f78100a721badd67e2fb7" />
+  <ServerInfo1 servername="服务器1" serverip="192.168.2.107" />
+  <ServerInfo2 servername="服务器2" serverip="121.12.124.37" />
+</EtermClient>

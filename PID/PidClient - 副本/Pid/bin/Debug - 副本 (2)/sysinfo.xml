@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<EtermClient>
+  <LoginInfo savepwd="1" autologin="0" staffid="sia322" pwd="bea01fe6307f78100a721badd67e2fb7" />
+  <ServerInfo1 servername="认证服务器一" serverip="203.88.210.234" />
+  <ServerInfo2 servername="认证服务器二" serverip="203.88.210.227" />
+  <ServerInfo3 servername="认证服务器三" serverip="121.12.124.37" />
+  <ServerInfo4 servername="认证服务器四" serverip="120.64.252.142" />
+</EtermClient>

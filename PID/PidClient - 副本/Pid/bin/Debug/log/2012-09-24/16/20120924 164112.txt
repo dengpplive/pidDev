@@ -1,0 +1,20 @@
+原始配置服务已启动......2012/9/24 星期一 16:40:23
+客户端监听服务已启动......2012/9/24 星期一 16:40:23
+服务开始监听，监听端口：360......2012/9/24 星期一 16:40:23
+[2012/09/24 16:40:55 wyl 发送指令]：
+avh/ctupek/20oct/3u/d
+[2012/09/24 16:40:55 wyl 返回结果]：
+ 20OCT(SAT) CTUBJS VIA 3U DIRECT ONLY  
+1-  3U8881 AS#FA PA AA YA BA TA WS HA MS GA  CTUPEK 0730   1005   330 0 S  E  >               SS LA QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:35
+2   3U8883 AS#F8 P8 A8 YA BA TA WS HA MS GA  CTUPEK 0930   1205   321 0 S  E  >               SS LA QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:35
+3   3U8885 AS#F8 P8 A8 YA BA TA WS HA MS GA  CTUPEK 1130   1410   321 0 S  E  >               SS LA QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:40
+4   3U8887  DS# F8 P8 A8 YA BA TA WS HA MS GA  CTUPEK 1330   1615   320 0 S  E  >               SS LS QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:45
+5   3U8893 AS#FA PA AA YA BA TA WS HA MS G5  CTUPEK 1530   1810   330 0 S  E  >               SS LS QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:40
+6   3U8889  DS# F8 P8 A8 YA BA TA WS HA MS G7  CTUPEK 1630   1925   321 0 S  E  >               SS LS QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:55
+7   3U8891  DS# F8 P8 A8 YA BA TA WS HA MS GA  CTUPEK 1930   2215   320 0 S  E  >               SS LS QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:45
+8   3U8895  DS# F8 P8 A8 YA BA TA WS HA MS GA  CTUPEK 2030   2325   320 0 S  E  >               SS LS QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:55
+9+  3U8547  DS# FA PA AA YA BA TA WS HA MS GA  CTUPEK 2030   2340   321 0 S  E  >               SS LS QS ES VS US RS KQ NQ XS ZS                    T1 T3  3:10
+**  CZ  FARE    CTUPEK/PEKCTU   YI:CZ/TZ305
+**  翠明庄饭店4*:天安门,王府井,故宫,标准间9月580元
+
+

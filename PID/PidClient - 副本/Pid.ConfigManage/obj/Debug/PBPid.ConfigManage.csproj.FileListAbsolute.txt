@@ -1,0 +1,117 @@
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+D:\work-2012082901\pid开发\开发\PID\PidClient\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+G:\work\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+D:\work-2012092401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012103101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012110101\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012112701\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+D:\软件下载\work-2012120301\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+E:\work\work-2012120401\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\ResolveAssemblyReference.cache
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+E:\源代码\Pid_bak-20130522\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+G:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.csprojResolveAssemblyReference.cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.csprojResolveAssemblyReference.cache
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+D:\work\bak\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.dll
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.ConfigManage.pdb
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.dll
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.dll
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\PBPid.Model.pdb
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\bin\Debug\IDBMethod.pdb
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.csprojResolveAssemblyReference.cache
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.dll
+D:\工程\PID\pid开发\开发\PID\PidClient - 副本\Pid.ConfigManage\obj\Debug\PBPid.ConfigManage.pdb

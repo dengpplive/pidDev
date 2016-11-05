@@ -1,0 +1,5 @@
+D:\Jp\开发\DataCacheService\IRemoteMethod\bin\Debug\IRemoteMethod.dll
+D:\Jp\开发\DataCacheService\IRemoteMethod\bin\Debug\IRemoteMethod.pdb
+D:\Jp\开发\DataCacheService\IRemoteMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\Jp\开发\DataCacheService\IRemoteMethod\obj\Debug\IRemoteMethod.dll
+D:\Jp\开发\DataCacheService\IRemoteMethod\obj\Debug\IRemoteMethod.pdb

@@ -1,0 +1,161 @@
+原始配置服务已启动......2012/9/28 星期五 17:19:47
+客户端监听服务已启动......2012/9/28 星期五 17:19:47
+服务开始监听，监听端口：360......2012/9/28 星期五 17:19:47
+[2012/09/28 17:20:20 wyl 发送指令]：
+da
+[2012/09/28 17:20:20 wyl 返回结果]：
+A       68620   28SEP   0249    41  CTU324  
+B       68620   28SEP   0249    41  CTU324  
+C       68620   28SEP   0249    41  CTU324  
+D       68620   28SEP   0249    41  CTU324  
+E*      68620   28SEP   1719    41  CTU324  
+PID   = 45687   HARDCOPY  = 1112
+TIME =  1720    DATE =  28SEP     HOST = LILY/B 
+AIRLINE = 1E    SYSTEM =  D790B2  APPLICATION =  3 
+
+[2012/09/28 17:20:36 wyl 发送指令]：
+da|avh/ctupek
+[2012/09/28 17:20:36 wyl 返回结果]：
+ 28SEP(FRI) CTUBJS 
+1- *ZH4117  DS# F8 YA BA MS HS KS LS QS GS SS  CTUPEK 1700   1935   321 0^L  E  >   CA4117      VS TS ES                                            T2 T3  2:35
+               ** M1S 
+2   CA4117  DS# F8 AS YA BA MS HS KS LS QS GS  CTUPEK 1700   1935   321 0^D  E  >               SS NS VS TS ES                                      T2 T3  2:35
+               ** M1S 
+3  *ZH4119  DS# FA YA BA MS HS KS LS QS GS SS  CTUPEK 1800   2040   333 0^L  E  >   CA4119      VS TS ES                                            T2 T3  2:40
+               ** M1S 
+4   CA4119  DS# FA AS WA YA BA MS HS KS LS QS  CTUPEK 1800   2040   333 0^D  E  >               GS SS NS VS TS ES                                   T2 T3  2:40
+               ** M1S 
+5  *ZH4111  DS# FL Y6 BS MS HS KS LS QS GS SS  CTUPEK 1900   2140   330 0^L  E  >   CA4111      VS TS ES                                            T2 T3  2:40
+               ** M1S 
+6+  CA4111  DS# FL AL Y6 BS MS HS KS LS QS GS  CTUPEK 1900   2140   330 0^D  E  >               SS NS VS TS ES                                      T2 T3  2:40
+               ** M1S 
+**  CZ  FARE    CTUPEK/PEKCTU   YI:CZ/TZ305
+**  翠明庄饭店4*:天安门,王府井,故宫,标准间9月580元
+
+[2012/09/28 17:20:48 wyl 发送指令]：
+i
+[2012/09/28 17:20:48 wyl 返回结果]：
+NO PNR[2012/09/28 17:20:48 wyl 发送指令]：
+i
+[2012/09/28 17:20:48 wyl 返回结果]：
+NO PNR[2012/09/28 17:21:08 wyl 发送指令]：
+avh/ctupek/30oct/d
+[2012/09/28 17:21:08 wyl 返回结果]：
+ 30OCT(TUE) CTUBJS DIRECT ONLY  
+1- *ZH4193  DS# FA YA BA MS HA KS LA QA GS SA  CTUPEK 0700   0935   321 0^   E  >   CA4193      VS TS E6                                            T2 T3  2:35
+               ** M1S 
+2   CA4193  DS# FA AS YA BA MS HA KS LA QA GS  CTUPEK 0700   0935   321 0^   E  >               SA NS VS TS E6                                      T2 T3  2:35
+               ** M1S 
+3   3U8881  DS# FA PA AA YA BA TA WS HA MS GA  CTUPEK 0730   1005   330 0 S  E  >               SS LA QS ES VS US RS KQ NQ XS ZS                    T1 T3  2:35
+4  *ZH4113  DS# FA YA BA MS HA KS LA QA GS S5  CTUPEK 0800   1030   330 0^   E  >   CA4113      VS TS ES                                            T2 T3  2:30
+               ** M1S 
+5   CA4113  DS# FA AS YA BA MS HA KS LA QA GS  CTUPEK 0800   1030   330 0^   E  >               S5 NS VS TS ES                                      T2 T3  2:30
+               ** M1S 
+6   KN2927  DS# FA P2 AS YA KA BS ES HS LS MS  CTUNAY 0810   1015   73G 0    E  >               NS RS SS VS TS WS GS XA QS US I5                           2:05
+7+  CA4101  DS# FA AS YA BA MS HA KS LA QA GS  CTUPEK 0900   1125   321 0^   E  >               S5 NS VS TS ES                                      T2 T3  2:25
+               ** M1S 
+**  CZ  FARE    CTUPEK/PEKCTU   YI:CZ/TZ305
+**  翠明庄饭店4*:天安门,王府井,故宫,标准间9月580元
+
+[2012/09/28 17:21:13 wyl 发送指令]：
+i
+[2012/09/28 17:21:13 wyl 返回结果]：
+NO PNR[2012/09/28 17:21:13 wyl 发送指令]：
+i
+[2012/09/28 17:21:13 wyl 返回结果]：
+NO PNR[2012/09/28 17:21:36 wyl 发送指令]：
+DETR:TN/781-2115299017
+[2012/09/28 17:21:36 wyl 返回结果]：
+无法从传输连接中读取数据: 您的主机中的软件中止了一个已建立的连接。。[2012/09/28 17:21:36 wyl 发送指令]：
+DETR:TN/781-2115299017
+[2012/09/28 17:21:36 wyl 返回结果]：
+无法从传输连接中读取数据: 您的主机中的软件中止了一个已建立的连接。。[2012/09/28 17:22:44 wyl 发送指令]：
+DETR:TN/781-2115299017 
+[2012/09/28 17:22:44 wyl 返回结果]：
+DETR:TN/781-2115299017 
+ISSUED BY:                           ORG/DST: PEK/CTU                 ARL-D 
+E/R: 变更退票收费   
+TOUR CODE:  b
+PASSENGER: 吴浩 
+EXCH:                               CONJ TKT:   
+O FM:1NAY KN    2283  Y 28SEP 1710 OK Y                        20K CHECKED IN        --T2 RL:MBJ17R  /  
+  TO: CTU   b
+FC: b
+FARE:                      |FOP:
+TAX:                       |OI: 
+TOTAL:                     |TKTN: 781-2115299017
+    b
+
+[2012/09/28 17:35:24 wyl 发送指令]：
+
+[2012/09/28 17:35:24 wyl 返回结果]：
+欢迎使用PID服务软件!
+
+您帐号的到期时间: 2014-06-06.[2012/09/28 17:35:31 wyl 发送指令]：
+da
+[2012/09/28 17:35:31 wyl 返回结果]：
+无法将数据写入传输连接: 您的主机中的软件中止了一个已建立的连接。。[2012/09/28 17:35:31 wyl 发送指令]：
+da
+[2012/09/28 17:35:31 wyl 返回结果]：
+无法将数据写入传输连接: 您的主机中的软件中止了一个已建立的连接。。[2012/09/28 17:37:02 wyl 发送指令]：
+da
+[2012/09/28 17:37:02 wyl 返回结果]：
+索引超出了数组界限。[2012/09/28 17:37:02 wyl 发送指令]：
+da
+[2012/09/28 17:37:02 wyl 返回结果]：
+索引超出了数组界限。[2012/09/28 17:37:05 wyl 发送指令]：
+i
+[2012/09/28 17:37:05 wyl 返回结果]：
+NO PNR[2012/09/28 17:37:05 wyl 发送指令]：
+i
+[2012/09/28 17:37:05 wyl 返回结果]：
+NO PNR[2012/09/28 17:37:09 wyl 发送指令]：
+da
+[2012/09/28 17:37:09 wyl 返回结果]：
+A       68620   28SEP   0249    41  CTU324  
+B       68620   28SEP   0249    41  CTU324  
+C       68620   28SEP   0249    41  CTU324  
+D       68620   28SEP   0249    41  CTU324  
+E*      68620   28SEP   1737    41  CTU324  
+PID   = 45687   HARDCOPY  = 1112
+TIME =  1737    DATE =  28SEP     HOST = LILY/B 
+AIRLINE = 1E    SYSTEM =  D790B2  APPLICATION =  3 
+
+[2012/09/28 17:37:51 wyl 发送指令]：
+i
+[2012/09/28 17:37:51 wyl 返回结果]：
+NO PNR[2012/09/28 17:37:51 wyl 发送指令]：
+i
+[2012/09/28 17:37:51 wyl 返回结果]：
+NO PNR[2012/09/28 17:38:04 wyl 发送指令]：
+DETR:TN/781-2115299017
+[2012/09/28 17:38:04 wyl 返回结果]：
+索引超出了数组界限。[2012/09/28 17:38:04 wyl 发送指令]：
+DETR:TN/781-2115299017
+[2012/09/28 17:38:04 wyl 返回结果]：
+索引超出了数组界限。[2012/09/28 17:38:08 wyl 发送指令]：
+i
+[2012/09/28 17:38:08 wyl 返回结果]：
+NO PNR[2012/09/28 17:38:08 wyl 发送指令]：
+i
+[2012/09/28 17:38:08 wyl 返回结果]：
+NO PNR[2012/09/28 17:38:11 wyl 发送指令]：
+DETR:TN/781-2115299017
+[2012/09/28 17:38:11 wyl 返回结果]：
+DETR:TN/781-2115299017 
+ISSUED BY:                           ORG/DST: PEK/CTU                 ARL-D 
+E/R: 变更退票收费   
+TOUR CODE:  b
+PASSENGER: 吴浩 
+EXCH:                               CONJ TKT:   
+O FM:1NAY KN    2283  Y 28SEP 1710 OK Y                        20K CHECKED IN        --T2 RL:MBJ17R  /  
+  TO: CTU   b
+FC: b
+FARE:                      |FOP:
+TAX:                       |OI: 
+TOTAL:                     |TKTN: 781-2115299017
+    b
+
+
+Socket->Socket->通道已关闭！2012/9/28 星期五 17:39:57
+
